@@ -1,0 +1,16 @@
+.Clase1 {
+    color: yellow;
+    font-size: 22px;
+}
+
+h1 {
+    color:aquamarine;
+}
+
+#div-id {
+    font-weight: bold;
+    border: 1px blue solid;
+    margin: 100px;
+    margin-top: 10px;
+    padding: 10px;
+}
